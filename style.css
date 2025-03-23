@@ -1,0 +1,63 @@
+body {
+
+    text-align: center;
+
+    background-color: pink;
+
+    font-family: 'Arial', sans-serif;
+
+}
+
+.container {
+
+    margin-top: 50px;
+
+}
+
+h1 {
+
+    color: red;
+
+}
+
+img {
+
+    width: 250px;
+
+    border-radius: 15px;
+
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+
+}
+
+p {
+
+    font-size: 18px;
+
+    color: darkred;
+
+}
+
+button {
+
+    background-color: red;
+
+    color: white;
+
+    padding: 10px;
+
+    border: none;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+
+    font-size: 16px;
+
+}
+
+button:hover {
+
+    background-color: darkred;
+
+}
